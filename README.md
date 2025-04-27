@@ -46,3 +46,32 @@
 </div>
 
 ###
+---
+
+## Projects
+
+### 🧠 Neural Network from Scratch
+Built a fully functional neural network **without using any machine learning libraries** like TensorFlow or PyTorch.  
+Implemented key components like:
+- Forward propagation
+- Backpropagation
+- Gradient descent optimization
+- Activation functions (ReLU, Sigmoid)
+
+The project highlights a deep understanding of the mathematics behind deep learning.  
+📂 [View the GitHub Repository](https://github.com/mini-bryanlin/Tumor-Classification)
+
+---
+
+### 🏆 League of Studies — JACHacks Hackathon Winner
+Created **League of Studies**, a gamified studying platform, during a 24-hour hackathon.  
+**Awards:** *Best Use of Domain (sadly)* 
+
+Key features:
+- Multiplayer study matches
+- Topic-specific study notes and quizzes
+- Live progress tracking and leaderboards
+- Full-stack implementation with Next.js, Node.js, Supabase, and TailwindCSS
+
+🔗 Try it here: [ihatestudying.study](https://ihatestudying.study)
+📂 [View the GitHub Repository](https://github.com/mini-bryanlin/LeagueOfStudies)
