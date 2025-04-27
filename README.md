@@ -75,4 +75,6 @@ Key features:
 
 🔗 Try it here: [ihatestudying.study](https://ihatestudying.study)
 
+📜 [View on Devpost](https://devpost.com/software/league-of-studies)
+
 📂 [View the GitHub Repository](https://github.com/mini-bryanlin/LeagueOfStudies)
