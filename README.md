@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bryan and I'm a incoming SWE student at UWaterloo, from Montreal</p>
+<p align="left">My name is Bryan and I'm a incoming SWE student at UWaterloo in September, from Montreal</p>
 
 ###
 
@@ -51,7 +51,7 @@
 ## Projects
 
 ### 🧠 Neural Network from Scratch
-Built a fully functional neural network **without using any machine learning libraries** like TensorFlow or PyTorch.  
+Built a fully functional neural network **without using any machine learning libraries** like TensorFlow or PyTorch to classify **tumors**.  
 Implemented key components like:
 - Forward propagation
 - Backpropagation
@@ -63,7 +63,7 @@ The project highlights a deep understanding of the mathematics behind deep learn
 
 ---
 
-### 🏆 League of Studies — JACHacks Hackathon Winner
+### 🏆 League of Studies — JACHacks 2025 Hackathon Winner
 Created **League of Studies**, a gamified studying platform, during a 24-hour hackathon.  
 **Awards:** *Best Use of Domain (sadly)* 
 
