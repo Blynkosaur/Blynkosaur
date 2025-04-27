@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently plan on learning C and more deeply on operating systems <br>🎯 Goals: Make a Brainrotted interpreted language (TRALALERO TRALALA) <br>🎲 Fun fact: I like doomscrolling sometimes</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently plan on learning C and more deeply on operating systems <br>🎯 Goals: Make a Brainrotted interpreted language (TRALALERO TRALALA 🦈👟🏖️) <br>🎲 Fun fact: I like doomscrolling sometimes</p>
 
 ###
 
