@@ -74,4 +74,5 @@ Key features:
 - Full-stack implementation with Next.js, Node.js, Supabase, and TailwindCSS
 
 🔗 Try it here: [ihatestudying.study](https://ihatestudying.study)
+
 📂 [View the GitHub Repository](https://github.com/mini-bryanlin/LeagueOfStudies)
