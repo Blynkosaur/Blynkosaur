@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bryan and I'm a incoming SWE student at UWaterloo in September, from Montreal</p>
+<p align="left">My name is Bryan and I'm a incoming SWE student at UWaterloo in September, from Montreal.</p>
 
 ###
 
