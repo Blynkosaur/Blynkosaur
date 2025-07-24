@@ -79,6 +79,6 @@ Key features:
 <hr>
 
 #### Am i famous yet?
-![](https://komarev.com/ghpvc/?username=BagetTeam&color=green&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Blynkosaur&color=green&style=for-the-badge)
 
 <hr>
