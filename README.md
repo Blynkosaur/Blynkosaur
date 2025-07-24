@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" target="_blank" />
-  <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white" target = "_blank"/>
+  <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white" target = "_blank"/>
   <img src = "https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" target="_blank"/>
   <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" target ="_blank"/>
   <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" target = "_blank"/>
