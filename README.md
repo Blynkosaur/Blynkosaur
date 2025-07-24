@@ -74,3 +74,11 @@ Key features:
 📜 [View on Devpost](https://devpost.com/software/league-of-studies)
 
 📂 [View the GitHub Repository](https://github.com/mini-bryanlin/LeagueOfStudies)
+
+---
+<hr>
+
+#### Am i famous yet?
+![](https://komarev.com/ghpvc/?username=BagetTeam&color=green&style=for-the-badge)
+
+<hr>
