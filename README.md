@@ -51,7 +51,7 @@
   <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" target ="_blank"/>
   <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" target = "_blank"/>
   <img src = "https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" target = "_blank"/>
-  
+  <img src = "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" target = "_blank"/>
   
   
 </p>
