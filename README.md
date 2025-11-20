@@ -18,8 +18,7 @@
 
 <h2 align="left">🎯 Currently Working On</h2>
 <p align="left">
-  <strong>🤓 FoundrScript</strong>: An interpreted programming language written in C that uses startup buzzwords as its syntax—think MVP, Pre-seed, B2B SaaS, etc.😱.<br>
-  
+  <br><strong>🤓 FoundrScript</strong>: An interpreted programming language written in C that uses startup buzzwords as its syntax—think MVP, Pre-seed, B2B SaaS, etc.😱.
 </p>
 
 
@@ -51,6 +50,9 @@
   <img src = "https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" target="_blank"/>
   <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" target ="_blank"/>
   <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" target = "_blank"/>
+  <img src = "https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" target = "_blank"/>
+  
+  
   
 </p>
 
