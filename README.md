@@ -13,12 +13,13 @@
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently plan on more about RAG and MCP Servers🤖<br>🎲 Fun fact: I like doomscrolling sometimes</p>
 <p align="left">✨ NEOVIM (btw) 🧙‍♂️</p>
 
-h2 align="left">🎯 Currently Working On</h2>
+###
+
+
+###🎯 Currently Working On
 <p align="left">
   <strong>FoundrScript</strong>: An interpreted programming language written in C that uses startup buzzwords as its syntax—think MVP, Pre-seed, B2B SAAS, and more 😱.<br>
-  - Focused on rapid prototyping for those who want code that's as ambitious as a pitch deck.<br>
-  - Engineered in C for performance and fun.<br>
-  - Stay tuned for cool sample scripts and documentation!
+  
 </p>
 
 
