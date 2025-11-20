@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently plan on more about RAG and MCP Servers 🤩 <br>🎯 Goals: Make an interpreted language in C <br>🎲 Fun fact: I like doomscrolling sometimes</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently plan on more about RAG and MCP Servers🤖 <br>🎯 Currently working on:  FoundrScript: an interpreted language in C that uses startup buzzwords (MVP, Pre-seed, B2B SAAS 😱) <br>🎲 Fun fact: I like doomscrolling sometimes</p>
 <p align="left">✨ NEOVIM (btw) 🧙‍♂️</p>
 
 
