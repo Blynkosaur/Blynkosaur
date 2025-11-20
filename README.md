@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bryan and I'm a SWE student at UWaterloo in September, from Montreal.</p>
+<p align="left">My name is Bryan and I'm a SWE student at UWaterloo, from Montreal.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently plan on learning C and more deeply on operating systems <br>🎯 Goals: Make an interpreted language in C <br>🎲 Fun fact: I like doomscrolling sometimes</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently plan on more about RAG and MCP Servers 🤩 <br>🎯 Goals: Make an interpreted language in C <br>🎲 Fun fact: I like doomscrolling sometimes</p>
 <p align="left">✨ NEOVIM (btw) 🧙‍♂️</p>
 
 
