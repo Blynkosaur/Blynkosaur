@@ -18,7 +18,7 @@
 
 <h2 align="left">🎯 Currently Working On</h2>
 <p align="left">
-  <br><strong>🤓 SaaScript</strong>: An interpreted programming language written in C that uses startup buzzwords as its syntax—think MVP, Pre-seed, B2B SaaS, etc.😱.
+  <br><strong>🧹Janitor</strong>: a CLI tool that cleans your files
 </p>
 
 
