@@ -17,11 +17,6 @@
 
 
 <h2 align="left">🎯 Currently Working On</h2>
-<p align="left">
-  <br><strong>🧹Janitor</strong>: a CLI tool that cleans your files
-</p>
-
-
 ###
 
 ### 🌐 Programming Languages 🌐
