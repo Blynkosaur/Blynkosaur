@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently plan on more about RAG and MCP Servers🤖<br>🎲 Fun fact: I like doomscrolling sometimes</p>
+<p align="left">✨ Creating bugs since 2019<br>🎲 Fun fact: I like doomscrolling sometimes</p>
 <p align="left">✨ NEOVIM (btw) 🧙‍♂️</p>
 
 ###
