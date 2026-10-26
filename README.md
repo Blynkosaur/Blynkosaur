@@ -58,35 +58,36 @@
 ---
 
 ## Projects
+### 🌳 Treehouse — A Better Git Worktree Runner for Your Agents
+A Go CLI where new git worktrees are **born ready** instead of born broken, so you can hand a branch to a coding agent (or run four at once) without anything colliding.  
+`git worktree add` gives you a directory, not a working environment. Treehouse fixes that the moment a worktree is created:
+- **Env fill:** copies each service's `.env` from the main checkout and reports missing or empty keys
+- **A database per worktree:** clones your Postgres DB via `TEMPLATE` and repoints `DATABASE_URL`, then drops it when the worktree goes
+- **Port and compose isolation:** deterministic port offsets, a private `COMPOSE_PROJECT_NAME`, and a private Redis db
+- **Instant deps:** copy-on-write `node_modules` cloning, so it takes near-zero disk and no reinstall
+- **Secrets kept away from agents:** values move to the macOS keychain, `.env` keeps a `th:` reference, and `th run` injects the real value and scrubs it from output
+- **Triage:** tells you (or your agent) whether a failure came from the environment or the code, and hooks into Claude Code
 
-### 🧠 Neural Network from Scratch
-Built a fully functional neural network **without using any machine learning libraries** like TensorFlow or PyTorch to classify **tumors**.  
-Implemented key components like:
-- Forward propagation
-- Backpropagation
-- Gradient descent optimization
-- Activation functions (ReLU, Sigmoid)
+Works with zero config. `go install github.com/Blynkosaur/treehouse@latest`
 
-The project highlights a deep understanding of the mathematics behind deep learning.  
-📂 [View the GitHub Repository](https://github.com/mini-bryanlin/Tumor-Classification)
+📂 [View the GitHub Repository](https://github.com/Blynkosaur/treehouse)
 
 ---
 
-### 🏆 League of Studies — JACHacks 2025 Hackathon Winner
-Created **League of Studies**, a gamified studying platform, during a 24-hour hackathon.  
-**Awards:** *Best Use of Domain (sadly)* 
+### 🏆 Rumi — HackMIT 2026 Winner
+Built **Rumi**, an AI interior design and shopping agent, in 36 hours with a team of four.  
+**Awards:** *Long Lake Track Winner* · *Ramp 2nd Place*
 
-Key features:
-- Multiplayer study matches
-- Topic-specific study notes and quizzes
-- Live progress tracking and leaderboards
-- Full-stack implementation with Next.js, Node.js, Supabase, and TailwindCSS
+How it works:
+- Scan your room with your iPhone's LiDAR and get a real-scale 3D model in Three.js
+- Agents built on the Vercel AI SDK search real stores for furniture that fits your style
+- Stays inside your budget and places every piece against your actual walls before you buy anything
 
-🔗 Try it here: [ihatestudying.study](https://ihatestudying.study)
+I built the design agent, the chat interface, and the planning system that turns a room and a budget into a purchasable layout.
 
-📜 [View on Devpost](https://devpost.com/software/league-of-studies)
+📂 [View the GitHub Repository](https://plume.hackmit.org/project/aajnp-oqnis-ttafi-kbgks)
 
-📂 [View the GitHub Repository](https://github.com/mini-bryanlin/LeagueOfStudies)
+---
 
 ---
 <hr>
