@@ -13,12 +13,6 @@
 <p align="left">✨ Creating bugs since 2019<br>🎲 Fun fact: I like doomscrolling sometimes</p>
 <p align="left">✨ NEOVIM (btw) 🧙‍♂️</p>
 
-###
-
-
-<h2 align="left">🎯 Currently Working On</h2>
-###
-
 ### 🌐 Programming Languages 🌐
 <p align="left">
   <!-- <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,php,js,ts,dart" /> -->
